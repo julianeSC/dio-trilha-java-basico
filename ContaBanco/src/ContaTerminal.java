@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
 
+        /**Classe para obter as informações do usuário e criar uma conta de banco simples
+         * @author Juliane Silva
+         * @since 05/09
+         */
+
       Scanner scanner = new Scanner(System.in);
 
       
